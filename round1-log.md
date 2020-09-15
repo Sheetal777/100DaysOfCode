@@ -16,7 +16,7 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 Fun fact: Old name of Java was Oak.
 2. Encoding of categorical data and learning functions after making a simple linear regression model.
 
-### R1D03
-1. Completed my Outreachy application FOSS.
+### R1D03 and 04
+1. Completed my Outreachy application of FOSS.
 2. Created first database with SQL.
 3. Got a new android project integrated with IoT.
