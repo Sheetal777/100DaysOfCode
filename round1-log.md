@@ -14,5 +14,9 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 ### R1D02
 1. Variables, and conditionals with OOP.
 Fun fact: Old name of Java was Oak.
-Encoding of categorical data and learning functions after making a simple linear regression model.
+2. Encoding of categorical data and learning functions after making a simple linear regression model.
 
+### R1D03
+1. Completed my Outreachy application FOSS.
+2. Created first database with SQL.
+3. Got a new android project integrated with IoT.
