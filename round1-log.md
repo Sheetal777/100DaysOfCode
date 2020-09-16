@@ -20,3 +20,8 @@ Fun fact: Old name of Java was Oak.
 1. Completed my Outreachy application of FOSS.
 2. Created first database with SQL.
 3. Got a new android project integrated with IoT.
+
+### R1D03 and 04
+1. Completed 0,1,2, and 3 rounds of http://www.pythonchallenge.com/ - Try this out!
+2. Learned basics of Linked Lists and implemented arrays with simple operations in python.
+3. Read more about Outreachy.
