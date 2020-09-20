@@ -34,3 +34,8 @@ Fun fact: Old name of Java was Oak.
 1. 12/20 in recursion CP quiz: turns out I need to devote more attention here.
 2. Made a linear regression model to find taxi prices on Azure ML platform.
 3. Learnt about Dope vector (Data Structure)
+
+### R1D07 -20th Sept
+1. Learnt about basic concepts in python to ontinue with linked list implementation.
+2. Completed 1 code of hackerrank.
+3. Went through tasks by JPMorgan Virtual Internship.
