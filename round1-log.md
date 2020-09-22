@@ -39,3 +39,8 @@ Fun fact: Old name of Java was Oak.
 1. Learnt about basic concepts in python to ontinue with linked list implementation.
 2. Completed 1 code of hackerrank.
 3. Went through tasks by JPMorgan Virtual Internship.
+
+### R1D08 & R1D09 -21st and 22nd Sept
+1. Learnt about Python inheritence and python.
+2.Did some problems with classes and objects.
+3. Got a skill badge from GCP.
