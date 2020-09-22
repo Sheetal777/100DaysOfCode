@@ -44,4 +44,5 @@ Fun fact: Old name of Java was Oak.
 1. Learnt about Python inheritence and python.
 
 2.Did some problems with classes and objects.
+
 3. Got a skill badge from GCP.
