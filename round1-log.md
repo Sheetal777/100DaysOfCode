@@ -44,3 +44,8 @@ Fun fact: Old name of Java was Oak.
 1. Learnt about Python inheritence and python.
 2. Did some problems with classes and objects.
 3. Got a skill badge from GCP.
+
+### R1D10 -23rd Sept
+1. Re-doing Regression Tower of Hanoi and small recursion problems.
+2. Skill bagge from GCP on performing tasks on ML.
+3. +1 lecture and exercise from Udacity.
