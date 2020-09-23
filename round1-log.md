@@ -41,9 +41,9 @@ Fun fact: Old name of Java was Oak.
 3. Went through tasks by JPMorgan Virtual Internship.
 
 ### R1D08 & R1D09 -21st and 22nd Sept
-1. Learnt about Python inheritence and python.
-2. Did some problems with classes and objects.
-3. Got a skill badge from GCP.
+1. Learnt about Python classes, objects, and inheritence.
+2. Did some basic problems on Numbers in CP.
+3. Got a skill badge from GCP on Cloud Resources.
 
 ### R1D10 -23rd Sept
 1. Re-doing Regression Tower of Hanoi and small recursion problems.
