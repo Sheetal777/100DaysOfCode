@@ -49,3 +49,8 @@ Fun fact: Old name of Java was Oak.
 1. Re-doing Regression Tower of Hanoi and small recursion problems.
 2. Skill bagge from GCP on performing tasks on ML.
 3. +1 lecture and exercise from Udacity.
+
+### R1D11 -24th Sept
+1. Done with HTML & HTML5 from freecodecamp. (code)
+2. Learned symmetric difference algo (algo)
+3. Learned stack implementation. (DS)
