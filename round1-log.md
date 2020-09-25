@@ -54,3 +54,7 @@ Fun fact: Old name of Java was Oak.
 1. Done with HTML & HTML5 from freecodecamp. (code)
 2. Learned symmetric difference algo (algo)
 3. Learned stack implementation. (DS)
+
+### R1D12 -25th Sept
+1. Completed Lesson-1 of ML course.
+2. Imported, transformed, and exported data on ML Azure platform.
