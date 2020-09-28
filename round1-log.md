@@ -58,3 +58,9 @@ Fun fact: Old name of Java was Oak.
 ### R1D12 -25th Sept
 1. Completed Lesson-1 of ML course.
 2. Imported, transformed, and exported data on ML Azure platform.
+
+### R1D13 & 14 - 26th & 27th sept of #100DaysOfCode
+1. Deployed my own Assistant using Actions on Google and Dialogflow API
+(Responses & few policies are due)
+2. Searching and sorting with quizzes from GFG
+3. Enrolled in GCPs October #30DaysofGoogleCloud
