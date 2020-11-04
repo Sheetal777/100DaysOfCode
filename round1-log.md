@@ -80,3 +80,75 @@ just reviewd last topics
 1. Gained confidence in recursion.
 2. practiced simple to medium problems on recursion from GFG.
 3. Hacktoberfest
+
+### R1D21 - 7th Oct
+1. Went on with my courses on Coursera. 
+2. Learnt linear and binary search.
+3. My Outreachy initial application didn't get accepted. 
+(Apparently India comes in northern hemisphere so I'd be eligible only for the mid-year internships.)
+
+### R1D22 - 10th Oct
+I went completely off the hook to work upon actual roadmap with my curriculum. (Late but, yay!)
+
+1. Learnt more Object Oriented theory.
+2. Implemented linked list on a ques.
+3. Did 2 puzzles from GFG.
+
+### R1D23 - 13th Oct
+(Last 2 days have been roller coaster and I'm not even counting those.)
+
+1. Associated with @profulsadangi Sir on an Open source project.
+2. Did string manipulation codes. 
+3. 2 lectures + 1 quiz + 1 assignment on Coursera.
+
+### R1D24 and 25 - 15th Oct
+1. Things are going pretty good. Doing Hackerrank daily.
+2. Contributing in Open source with #twindle
+
+### R1D26 - 16th Oct
+1. Completed Hacktoberfest.
+2. Learned about merge conflicts via Twindle.
+
+### R1D27 - 18th Oct
+1. Tried my hands on CSS and HTML.
+2. Wrote half a code on Testimonials for Twindle.
+
+### R1D28 - 24th Oct
+1. Dynamic Array in C
+2. Digit Frequency
+3. Printing Tokens
+4. Array Reversal
+5. 1D Arrays in C
+
+### R1D29 - 25th Oct
+1. Small Triangles, Large Triangles
+2. Boxes through a Tunnel
+
+### R1D30 - 29th Oct
+1. Structuring the Document
+2. Post Transition
+3. Querying the Document
+4. Variadic functions in C
+
+### R1D31 - 30th Oct
+1. Day 1: Data Types
+
+### R1D32 - 31st Oct
+1. Day 2: Operators
+2. Day 0: Hello, World
+
+### R1D33 - 1st Nov
+1. Day 3: Intro to Conditional Statements
+
+### R1D34 - 2nd Nov
+1. Day 4: Class vs. Instance
+
+### R1D35 - 3rd Nov
+1. Classes started, using Pomodoro.
+2. Slow pace
+
+### R1D36 - 4th Nov
+1. Day 5: Loops
+2. Von Neumann architecture
+
+### R1D37 - 5th Nov
