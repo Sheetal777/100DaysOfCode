@@ -68,3 +68,15 @@ Fun fact: Old name of Java was Oak.
 ### R1D15 - 28th Sept
 1. Blank - did not do any coding stuff at all
 just reviewd last topics
+
+### R1D16 - 30th Sept
+1. Finally done with the Udacity ML course. After doing hands on with Azure, I'm feeling quite confident. Have to keep revising the algorithms I've learnt.
+
+### R1D17 - 1st Oct
+1. Python Iterators, Scope, and Modules. 
+2. Counting Sort Algorithm.
+
+### R1D17 to 20 - 5th Oct
+1. Gained confidence in recursion.
+2. practiced simple to medium problems on recursion from GFG.
+3. Hacktoberfest
