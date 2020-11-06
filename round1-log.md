@@ -152,3 +152,6 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 2. Von Neumann architecture
 
 ### R1D37 - 5th Nov
+1. Complexity analysis
+2. Understood the working of threaderapp and its limitations
+3. Tried to align with Twindle work.
