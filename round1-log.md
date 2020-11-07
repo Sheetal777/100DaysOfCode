@@ -155,3 +155,13 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Complexity analysis
 2. Understood the working of threaderapp and its limitations
 3. Tried to align with Twindle work.
+
+### R1D38 - 6th Nov
+1. Object Oriented and procedural programming.
+2. Used Octave for writing small programs. 
+3. Git bash seems out of my league. 
+
+### R139 - 7th Nov
+1. Real time object detection using Python concepts. 
+2. Did ML maths practice. 
+3. Used Jupyter after ages. 
