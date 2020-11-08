@@ -165,3 +165,6 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Real time object detection using Python concepts. 
 2. Did ML maths practice. 
 3. Used Jupyter after ages. 
+
+### R140 - 8th Nov
+1. Priori and Posteriori Analysis of Algorithms.
