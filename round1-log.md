@@ -168,3 +168,4 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 
 ### R140 - 8th Nov
 1. Priori and Posteriori Analysis of Algorithms.
+2. Pushed all my codes on GH
