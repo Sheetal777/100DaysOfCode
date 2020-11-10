@@ -169,3 +169,8 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 ### R140 - 8th Nov
 1. Priori and Posteriori Analysis of Algorithms.
 2. Pushed all my codes on GH
+
+### R141 - 10th Nov
+1. Git squashing multiple commits in a single one.
+2. Responsive Testimonials card UI design.
+3. DAy 6: Let's Review
