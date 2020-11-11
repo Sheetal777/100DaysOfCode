@@ -174,3 +174,8 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Git squashing multiple commits in a single one.
 2. Responsive Testimonials card UI design.
 3. DAy 6: Let's Review
+
+### R142 - 11h Nov
+1. Day 7: Arrays
+2. Day 8: Dictionaries and Maps
+3. Day 9: Recursion 3
