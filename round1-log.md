@@ -161,21 +161,26 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 2. Used Octave for writing small programs. 
 3. Git bash seems out of my league. 
 
-### R139 - 7th Nov
+### R1D39 - 7th Nov
 1. Real time object detection using Python concepts. 
 2. Did ML maths practice. 
 3. Used Jupyter after ages. 
 
-### R140 - 8th Nov
+### R1D40 - 8th Nov
 1. Priori and Posteriori Analysis of Algorithms.
 2. Pushed all my codes on GH
 
-### R141 - 10th Nov
+### R1D41 - 10th Nov
 1. Git squashing multiple commits in a single one.
 2. Responsive Testimonials card UI design.
 3. DAy 6: Let's Review
 
-### R142 - 11h Nov
+### R1D42 - 11th Nov
 1. Day 7: Arrays
 2. Day 8: Dictionaries and Maps
 3. Day 9: Recursion 3
+
+### R1D43 - 12th Nov
+1. Java input taking.
+2. Increment and Decrement operator.
+3. Simple Java programs from pepcoding.
