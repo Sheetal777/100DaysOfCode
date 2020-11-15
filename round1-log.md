@@ -184,3 +184,7 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Java input taking.
 2. Increment and Decrement operator.
 3. Simple Java programs from pepcoding.
+
+### R1D44 - 13th Nov
+1. Minimum flips to make all 1s in right and 0s in left.
+2. Encapsulation (1/3 - OOP)
