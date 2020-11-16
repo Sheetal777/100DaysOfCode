@@ -195,5 +195,8 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 
 ### R1D46 - 16th Nov
 1. Prime numbers in certain range.
-2. Subtle internal preparation.
-3. 
+2. fibonacci till n.
+3. ount digits.
+4. print digits
+5. reverse of a number. (1-5 in JAVA)
+6. Subtle internal preparation.
