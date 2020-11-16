@@ -188,3 +188,12 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 ### R1D44 - 13th Nov
 1. Minimum flips to make all 1s in right and 0s in left.
 2. Encapsulation (1/3 - OOP)
+
+### R1D45 - 15th Nov
+1. Check whether a number is prime or not.
+2. First 3 programs on Java from Hackerrank.
+
+### R1D46 - 16th Nov
+1. Prime numbers in certain range.
+2. Subtle internal preparation.
+3. 
