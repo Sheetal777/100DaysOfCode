@@ -197,6 +197,11 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Prime numbers in certain range.
 2. fibonacci till n.
 3. ount digits.
-4. print digits
+4. print digits.
 5. reverse of a number. (1-5 in JAVA)
 6. Subtle internal preparation.
+
+### R1D47 - 17th Nov
+1. Inverse of a number.
+2. I wrote a whole program myself.
+3. Two weeks of Using Databases for python.
