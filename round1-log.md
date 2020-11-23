@@ -206,6 +206,10 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 2. I wrote a whole program myself.
 3. Two weeks of Using Databases for python.
 
-### R148 - 18th Nov
+### R1D48 - 18th Nov
 1. pepcoding tutorials.
 2. Rotate a number.
+
+### R1D49 - 22nd Nov
+1. Address calculation in 2D array.
+2. Linear search.
