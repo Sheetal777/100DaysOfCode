@@ -213,3 +213,5 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 ### R1D49 - 22nd Nov
 1. Address calculation in 2D array.
 2. Linear search.
+
+### R1D50
