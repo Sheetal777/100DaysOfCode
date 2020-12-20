@@ -214,4 +214,4 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Address calculation in 2D array.
 2. Linear search.
 
-### R1D50 - 28th Nov
+## BACK AFTER A LONG BREAK OF 22 DAYS
