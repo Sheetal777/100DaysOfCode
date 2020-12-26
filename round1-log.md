@@ -219,3 +219,8 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 ### R1D50 - 20th Dec
 1. Revised the codes I had written.
 2. Basic concepts of OOPs Revision
+
+###R1D51 - 26th Dec
+1. Unacademy programming aptitude test.
+2. GCD & LCM - pepcoding
+3. 
