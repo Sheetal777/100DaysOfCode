@@ -235,3 +235,4 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Abstraction and Layering
 2. Pattern 1 - pepcoding
 3. Pattern 2 - pepcoding
+4. Pattern 3 - pepcoding
