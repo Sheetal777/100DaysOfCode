@@ -232,4 +232,6 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 2. Benjamin Bulbs - basically to get every sqaure term.
 
 ### R1D54 - 31st DEc
-1. 
+1. Abstraction and Layering
+2. Pattern 1 = pepcoding
+3. 
