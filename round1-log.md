@@ -233,5 +233,5 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 
 ### R1D54 - 31st DEc
 1. Abstraction and Layering
-2. Pattern 1 = pepcoding
-3. 
+2. Pattern 1 - pepcoding
+3. Pattern 2 - pepcoding
