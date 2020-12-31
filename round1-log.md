@@ -220,7 +220,16 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Revised the codes I had written.
 2. Basic concepts of OOPs Revision
 
-###R1D51 - 26th Dec
+### R1D51 - 26th Dec
 1. Unacademy programming aptitude test.
 2. GCD & LCM - pepcoding
-3. 
+
+### R1D52 - 28th Dec
+1. Prime factorization of a Number.
+
+### R1D53 - 29Th Dec
+1. Pythagorean Triplet.
+2. Benjamin Bulbs - basically to get every sqaure term.
+
+### R1D54 - 31st DEc
+1. 
