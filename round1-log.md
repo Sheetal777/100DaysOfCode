@@ -243,10 +243,10 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 ## R1D55 - 4th Dec
 1. Abstraction and Encapsulation (in 24 hours, alas)
 
-## 5th Dec - Decided to Study on daily basis
+## 5th Dec - Decided to Study on daily basis rather than loosely dwelling
 
 R1D56 to D60 - 6th Dec to 10th Dec
-1. Learnt about HTTP, DNS Servers, REST API (Crio.Do)
+1. Learnt about HTTP, DNS Servers (Crio.Do)
 2. Started doing practice problems from Codechef
 3. Got Hacktoberfest SWAGS and participated in MLH
 4. ATM - Codecchef
@@ -255,4 +255,6 @@ R1D56 to D60 - 6th Dec to 10th Dec
 7. Discovered resources to learn Django from.
 
 ### R1D61 - 11th Dec
-1. 
+1. Learnt about Rest API
+2. NUmber mirror - Codechef
+3. Digit sum - Codechef
