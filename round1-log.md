@@ -241,3 +241,8 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 ### R1D55 to D60 - 5th Dec to 11th Dec
 1. Learnt about HTTP, DNS Servers, REST API (Crio.Do)
 2. Started doing practice problems from Codechef
+3. Got Hacktoberfest SWAGS and participated in MLH
+4. ATM - Codecchef
+5. Enormous input test - Codechef
+6. Add two numbers - Codechef
+7. Discovered resources to learn Django from.
