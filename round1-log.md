@@ -238,7 +238,14 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 4. Pattern 3 - pepcoding
 5. Pattern 4 - pepcoding
 
-### R1D55 to D60 - 5th Dec to 11th Dec
+## 1st - 3rd Dec - Did entirely nothing
+
+## R1D55 - 4th Dec
+1. Abstraction and Encapsulation (in 24 hours, alas)
+
+## 5th Dec - Decided to Study on daily basis
+
+R1D56 to D60 - 6th Dec to 10th Dec
 1. Learnt about HTTP, DNS Servers, REST API (Crio.Do)
 2. Started doing practice problems from Codechef
 3. Got Hacktoberfest SWAGS and participated in MLH
@@ -246,3 +253,6 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 5. Enormous input test - Codechef
 6. Add two numbers - Codechef
 7. Discovered resources to learn Django from.
+
+### R1D61 - 11th Dec
+1. 
