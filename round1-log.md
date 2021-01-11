@@ -259,3 +259,4 @@ R1D56 to D60 - 6th Dec to 10th Dec
 2. NUmber mirror - Codechef
 3. Digit sum - Codechef
 4. Find Remainder - Codecchef
+5. Factorial - Codechef
