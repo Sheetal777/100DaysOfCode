@@ -231,9 +231,13 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 1. Pythagorean Triplet.
 2. Benjamin Bulbs - basically to get every sqaure term.
 
-### R1D54 - 31st DEc
+### R1D54 - 31st Dec
 1. Abstraction and Layering
 2. Pattern 1 - pepcoding
 3. Pattern 2 - pepcoding
 4. Pattern 3 - pepcoding
-5. Pattern 4 - pepcoding huuu
+5. Pattern 4 - pepcoding
+
+### R1D55 to D60 - 5th Dec to 11th Dec
+1. Learnt about HTTP, DNS Servers, REST API (Crio.Do)
+2. Started doing practice problems from Codechef
