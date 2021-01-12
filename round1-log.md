@@ -260,3 +260,7 @@ R1D56 to D60 - 6th Dec to 10th Dec
 3. Digit sum - Codechef
 4. Find Remainder - Codecchef
 5. Factorial - Codechef
+
+### R1D62 - 12th Dec
+1. HTTP modulwes and BYTE completed.
+2. REST API
