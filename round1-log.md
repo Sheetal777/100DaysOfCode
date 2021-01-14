@@ -268,3 +268,6 @@ R1D56 to D60 - 6th Dec to 10th Dec
 ### R1D63 - 13th Dec
 1. Linux (yes)
 2. Small factorials - Codechef
+
+### R1D64 - 14th Dec
+1. Pattern 5 to Pattern 14 - Pepcoding
