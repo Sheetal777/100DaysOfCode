@@ -264,3 +264,7 @@ R1D56 to D60 - 6th Dec to 10th Dec
 ### R1D62 - 12th Dec
 1. HTTP modulwes and BYTE completed.
 2. REST API
+
+### R1D63 - 13th Dec
+1. Linux (yes)
+2. Small factorials - Codechef
