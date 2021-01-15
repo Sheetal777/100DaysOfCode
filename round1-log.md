@@ -243,7 +243,7 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 ## R1D55 - 4th Dec
 1. Abstraction and Encapsulation (in 24 hours, alas)
 
-## 5th Dec - Decided to Study on daily basis rather than loosely dwelling
+## 5th Dec - Decided something
 
 R1D56 to D60 - 6th Dec to 10th Dec
 1. Learnt about HTTP, DNS Servers (Crio.Do)
@@ -277,3 +277,4 @@ R1D56 to D60 - 6th Dec to 10th Dec
 2. e-mail address validation with RegEx in Java
 3. Immutable classes in Java - Integer, Boolean, Byte, Short
 4. TreeSet
+5. Pattern 15 - Pepcoding
