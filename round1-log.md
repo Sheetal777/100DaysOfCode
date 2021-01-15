@@ -271,3 +271,9 @@ R1D56 to D60 - 6th Dec to 10th Dec
 
 ### R1D64 - 14th Dec
 1. Pattern 5 to Pattern 14 - Pepcoding
+
+### R1D65 - 15th Dec
+1. ET Coding Stars quiz
+2. e-mail address validation with RegEx in Java
+3. Immutable classes in Java - Integer, Boolean, Byte, Short
+4. TreeSet
