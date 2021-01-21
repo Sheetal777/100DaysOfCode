@@ -277,6 +277,20 @@ R1D56 to D60 - 6th Dec to 10th Dec
 2. e-mail address validation with RegEx in Java
 3. Immutable classes in Java - Integer, Boolean, Byte, Short
 4. TreeSet
-5. Pattern 15 - Pepcoding
 
-hh
+### R1D66 - 16th DEc
+1. Pattern 15 - Pepcoding
+2. Why not to use Global variables
+
+### R1D67 - 18th Dec
+1. Turbo Sort
+2. First and last Digit
+3. Lucky Four
+( Codechef )
+
+### R1D68 - 20th Dec
+1. Reverse the number
+2. Finding Square Roots
+3. The Lead Game
+4. Second Largest
+( Codechef )
