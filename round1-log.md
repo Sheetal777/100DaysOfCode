@@ -281,6 +281,9 @@ R1D56 to D60 - 6th Dec to 10th Dec
 ### R1D66 - 16th DEc
 1. Pattern 15 - Pepcoding
 2. Why not to use Global variables
+- Cause tight coupling
+- Has no access control
+- Can't be limited to some parts of the code
 
 ### R1D67 - 18th Dec
 1. Turbo Sort
@@ -295,3 +298,8 @@ R1D56 to D60 - 6th Dec to 10th Dec
 4. Second Largest
 ( Codechef )
 5. List vs Tuples in Python
+
+### R1D69 - 21st Dec
+1. 
+2. 
+3. 
