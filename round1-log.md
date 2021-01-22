@@ -278,7 +278,7 @@ R1D56 to D60 - 6th Dec to 10th Dec
 3. Immutable classes in Java - Integer, Boolean, Byte, Short
 4. TreeSet
 
-### R1D66 - 16th DEc
+### R1D66 - 16th Dec
 1. Pattern 15 - Pepcoding
 2. Why not to use Global variables
 - Cause tight coupling
