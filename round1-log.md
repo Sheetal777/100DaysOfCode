@@ -300,6 +300,10 @@ R1D56 to D60 - 6th Dec to 10th Dec
 5. List vs Tuples in Python
 
 ### R1D69 - 21st Dec
-1. 
-2. 
-3. 
+1. Started setting up my laptop for projects in Python.
+2. Applied to Goldman Sachs but no resume.
+
+### R1D70 - 22nd Dec
+1. VS code done.
+2. Analysis tool using python step 1 done
+3. Pattern 16 - Pepcoding
