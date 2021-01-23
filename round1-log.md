@@ -307,3 +307,9 @@ R1D56 to D60 - 6th Dec to 10th Dec
 1. VS code done.
 2. Analysis tool using python step 1 done
 3. Pattern 16 - Pepcoding
+
+### R1D71 - 23rd Dec
+1. Watched lecture on Tkiinter in python for making GUI apps
+2. Learned to add labels, buttons, menus
+3. Notepad webpapp in Python done
+4. 
