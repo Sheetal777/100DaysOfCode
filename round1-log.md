@@ -327,3 +327,9 @@ R1D56 to D60 - 6th Jan to 10th Jan
 2. Struggled with Qprep module with small JS codes.
 3. Got my certificate for CWOD.
 4. Got my swags from LoginRadius for Hacktoberfest Contribution.
+5. Made a color Game in Python.
+
+### R1D74 - 26th Jan
+1. Hello World (Crio - JS)
+2. Loops (Crio - JS)
+3. Got my certificate from Crio Community and swags from LoginRadius
