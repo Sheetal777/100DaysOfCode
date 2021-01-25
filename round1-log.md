@@ -238,14 +238,14 @@ I went completely off the hook to work upon actual roadmap with my curriculum. (
 4. Pattern 3 - pepcoding
 5. Pattern 4 - pepcoding
 
-## 1st - 3rd Dec - Did entirely nothing
+## 1st - 3rd Jan - Did entirely nothing
 
-## R1D55 - 4th Dec
+## R1D55 - 4th Jan
 1. Abstraction and Encapsulation (in 24 hours, alas)
 
-## 5th Dec - Decided something
+## 5th Jan - Decided something
 
-R1D56 to D60 - 6th Dec to 10th Dec
+R1D56 to D60 - 6th Jan to 10th Jan
 1. Learnt about HTTP, DNS Servers (Crio.Do)
 2. Started doing practice problems from Codechef
 3. Got Hacktoberfest SWAGS and participated in MLH
@@ -254,44 +254,44 @@ R1D56 to D60 - 6th Dec to 10th Dec
 6. Add two numbers - Codechef
 7. Discovered resources to learn Django from.
 
-### R1D61 - 11th Dec
+### R1D61 - 11th Jan
 1. Learnt about Rest API
 2. NUmber mirror - Codechef
 3. Digit sum - Codechef
 4. Find Remainder - Codecchef
 5. Factorial - Codechef
 
-### R1D62 - 12th Dec
+### R1D62 - 12th Jan
 1. HTTP modulwes and BYTE completed.
 2. REST API
 
-### R1D63 - 13th Dec
+### R1D63 - 13th Jan
 1. Linux (yes)
 2. Small factorials - Codechef
 
-### R1D64 - 14th Dec
+### R1D64 - 14th Jan
 1. Pattern 5 to Pattern 14 - Pepcoding
 
-### R1D65 - 15th Dec
+### R1D65 - 15th Jan
 1. ET Coding Stars quiz
 2. e-mail address validation with RegEx in Java
 3. Immutable classes in Java - Integer, Boolean, Byte, Short
 4. TreeSet
 
-### R1D66 - 16th Dec
+### R1D66 - 16th Jan
 1. Pattern 15 - Pepcoding
 2. Why not to use Global variables
 - Cause tight coupling
 - Has no access control
 - Can't be limited to some parts of the code
 
-### R1D67 - 18th Dec
+### R1D67 - 18th Jan
 1. Turbo Sort
 2. First and last Digit
 3. Lucky Four
 ( Codechef )
 
-### R1D68 - 20th Dec
+### R1D68 - 20th Jan
 1. Reverse the number
 2. Finding Square Roots
 3. The Lead Game
@@ -299,17 +299,31 @@ R1D56 to D60 - 6th Dec to 10th Dec
 ( Codechef )
 5. List vs Tuples in Python
 
-### R1D69 - 21st Dec
+### R1D69 - 21st Jan
 1. Started setting up my laptop for projects in Python.
 2. Applied to Goldman Sachs but no resume.
 
-### R1D70 - 22nd Dec
+### R1D70 - 22nd Jan
 1. VS code done.
 2. Analysis tool using python step 1 done
 3. Pattern 16 - Pepcoding
 
-### R1D71 - 23rd Dec
+### R1D71 - 23rd Jan
 1. Watched lecture on Tkiinter in python for making GUI apps
 2. Learned to add labels, buttons, menus
 3. Notepad webpapp in Python done
-4. 
+
+### R1D72 - 24th Jan
+1. Deployed the Notepad webapp on Github
+2. Couldn't upload the project via VS Code so used Gitpod
+3. Made Morse Code Translator using Python
+4. Made a simple Hangman Game using Python
+5. Packaging Cupcakes
+6. Small Factorial
+7. Helping Chef
+
+### R1D73 - 25th Jan
+1. Completed my Crio Winter of Doing Stage 1.
+2. Struggled with Qprep module with small JS codes.
+3. Got my certificate for CWOD.
+4. Got my swags from LoginRadius for Hacktoberfest Contribution.
