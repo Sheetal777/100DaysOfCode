@@ -333,9 +333,21 @@ R1D56 to D60 - 6th Jan to 10th Jan
 1. Hello World (Crio - JS)
 2. Loops (Crio - JS)
 3. Got my certificate from Crio Community and swags from LoginRadius
+4. GFG - Day1 Array manipulation
 
 ### R1D75 - 27th Jan
 1. Started working on my Qprofile after panicking on Gitpod Failure
 2. Panicked after opening GFG on not being able to solve the first problem of 30DaysOfCode
 3. Solved a question after getting step-by-step guidane using Bitmasking
 4. Questioning myself on whether I'd be able to build a whole full stack web app myself or not
+5. GFG - Day2 Mathematics
+
+### R1D76 - 28th Jan 
+1. GFG Day3 problem on Arrays
+2. Finally deployed the Full-stack webapp https://sheetal-p.netlify.app/
+3. Learned that people are selfish and college MATHHERS
+4. Completed my Crio Journey with a failed Hackerrank Contest
+
+### R1D79 - 29th Jan
+1. 
+4. 
