@@ -367,3 +367,15 @@ R1D56 to D60 - 6th Jan to 10th Jan
 2. GFG Day6 - Matrix
 3. GFG tutorial on Dynamic programming
 4. Failed attempt on Ugly numbers question
+
+### R1D82 & 83 - 1st Feb
+1. Built few simple python projeccts.
+2. Youtube downloader and Face Mask Detection
+3. Breast Cancer classification using IDC datasets.
+4. Handwritten Digits Recognition
+5. GFG Day 7 - Vlaid number pairs.
+6. Have to apply for GSSOC as a participant.
+
+### R1D84 - 2nd Feb
+1. Will use Django framework to make online a discussion forum.
+2. 
