@@ -349,5 +349,21 @@ R1D56 to D60 - 6th Jan to 10th Jan
 4. Completed my Crio Journey with a failed Hackerrank Contest
 
 ### R1D79 - 29th Jan
-1. 
-4. 
+1. GFG Day4 - Mathematics
+2. wave arrays
+3. Time complexity analysis
+4. Priori Posteriori Analysis
+
+### R1D80 - 30th Jan
+1. Chef operator
+2. valid triangle
+3. chef remisness
+4. mahasena
+(codechef)
+5. GFG - Day5 Matrix (spiral)
+
+### R1D81 - 31st Jan
+1. pdf merger using Python
+2. GFG Day6 - Matrix
+3. GFG tutorial on Dynamic programming
+4. Failed attempt on Ugly numbers question
