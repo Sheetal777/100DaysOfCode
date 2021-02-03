@@ -378,4 +378,15 @@ R1D56 to D60 - 6th Jan to 10th Jan
 
 ### R1D84 - 2nd Feb
 1. Will use Django framework to make online a discussion forum.
-2. 
+2. GFG - Day8 - Dam of candies (sorting problem)
+3. Started writing a blog on CWOD
+4. Git rejected from Stage2 of CWoD
+
+### R1D85 - 3rd Feb
+1. GFG - Day 7 - Disaster - Strings
+2. Have to start 100Daysofcode again following GFG path (Guess who's a GFG fan now)
+3. Array merge sort (non-brute force, optimised solution)
+4. Qualified for stage 2 of ET Campus Stars (Hope I don't get out of this)
+
+### R1D86 - 4th Feb
+1. 
