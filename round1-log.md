@@ -382,13 +382,28 @@ R1D56 to D60 - 6th Jan to 10th Jan
 4. Git rejected from Stage2 of CWoD
 
 ### R1D85 - 3rd Feb
-1. GFG - Day 7 - Disaster - Strings
+1. GFG - Day 9 - Disaster - Strings
 2. Have to start 100Daysofcode again following GFG path (Guess who's a GFG fan now)
 3. Array merge sort (non-brute force, optimised solution)
 4. Qualified for stage 2 of ET Campus Stars (Hope I don't get out of this)
 
 ### R1D86 - 4th Feb
-1. GFG Day 8 solved Repeated strings
+1. GFG Day 10 solved Repeated strings
 2. Turtle programming in Python
 3. Solved few questions from GFG
 4. Finally found my small goal to reach the ultimate one. (Hint: I am really competitive)
+
+### R1D87 - 5th Feb
+1. GFG Day 11 solved strings
+2. Read few articles from former Crio.do participants.
+3. Sum of product of x and y such that floor(n/x) = y
+4. Find nth term in the series. 
+
+### R1D88 - 6th Feb
+1. GFG - Day 12 Solved Bit manipulation by lots of hints, disaster!
+2. Read articles that demotivated completely regarding Goldman Sachs.
+3. Submitted my Resume in Goldman Sachs career portal.
+4. ML or Django? Choose one
+
+### R1D89 - 7th Feb
+1. 
