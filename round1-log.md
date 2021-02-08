@@ -406,4 +406,9 @@ R1D56 to D60 - 6th Jan to 10th Jan
 4. ML or Django? Choose one
 
 ### R1D89 - 7th Feb
-1. 
+1. GFG Day 13 Tree traversal Question
+2. Read articles on Django
+
+### R190 - 8th Feb
+1. Pretty much a waste, didn't do much. 
+2. Only read one question from GFG.
