@@ -412,3 +412,9 @@ R1D56 to D60 - 6th Jan to 10th Jan
 ### R190 - 8th Feb
 1. Pretty much a waste, didn't do much. 
 2. Only read one question from GFG.
+
+### R1D91 - 9th Feb
+1. GFG Day 14,15 and 16
+
+### R1D92 - 11th Feb
+1. 
