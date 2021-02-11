@@ -417,4 +417,10 @@ R1D56 to D60 - 6th Jan to 10th Jan
 1. GFG Day 14,15 and 16
 
 ### R1D92 - 11th Feb
+1. GFG Day 17 Help classmates - Stack Question
+2. Panicked about Placements.
+3. Filled up the form for Microsoft, IBM, and CrossWoC
+4. Goldman, a distant dream? 
+
+### R1D93 - 12th Feb
 1. 
