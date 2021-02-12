@@ -423,4 +423,9 @@ R1D56 to D60 - 6th Jan to 10th Jan
 4. Goldman, a distant dream? 
 
 ### R1D93 - 12th Feb
+1. GFG Day 18: a simple ques using for loops 132
+2. Remove duplicate elements from array using counter
+3. Apply for CrossWoc and pick Text Analyzer
+
+### R1D94 - 13th Feb
 1. 
