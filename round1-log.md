@@ -428,4 +428,13 @@ R1D56 to D60 - 6th Jan to 10th Jan
 3. Apply for CrossWoc and pick Text Analyzer
 
 ### R1D94 - 13th Feb
+1. Submitted my cover letter and Cv at Microsoft, IBM.
+2. joined the Text Analyzer project from CrossWoC
+
+### R1D95 - 14th Feb
+1. Celebrated Happy Valentine's Day with tree concepts
+2. My last week went low-key AF because I have so many applications to fll out and its a very very dreary task.
+3. Did 1 ques from GFG (but after seeing the solution) Day20 - Geek Valentine
+
+### R1D96 - 15th Feb
 1. 
