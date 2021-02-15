@@ -437,4 +437,4 @@ R1D56 to D60 - 6th Jan to 10th Jan
 3. Did 1 ques from GFG (but after seeing the solution) Day20 - Geek Valentine
 
 ### R1D96 - 15th Feb
-1. 
+1. Nothing
