@@ -437,4 +437,13 @@ R1D56 to D60 - 6th Jan to 10th Jan
 3. Did 1 ques from GFG (but after seeing the solution) Day20 - Geek Valentine
 
 ### R1D96 - 15th Feb
-1. Nothing
+1. I submitted applications (Don't remember which ones)
+2. Missed the deadline for My projects on SUven
+
+### R1D97 - 16th Feb
+1. Studied tree concepts
+2. Solved few questions from Codechef
+3. One question from GFG
+4. The career portal openend after 100 points on GFG.
+
+### R1D98 - 
