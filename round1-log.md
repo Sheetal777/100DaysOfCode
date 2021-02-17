@@ -446,4 +446,7 @@ R1D56 to D60 - 6th Jan to 10th Jan
 3. One question from GFG
 4. The career portal openend after 100 points on GFG.
 
-### R1D98 - 
+### R1D98 - 17th Feb
+1. Solving apti questions for GS test.
+
+### R1D99 - 
