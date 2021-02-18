@@ -449,4 +449,6 @@ R1D56 to D60 - 6th Jan to 10th Jan
 ### R1D98 - 17th Feb
 1. Solving apti questions for GS test.
 
-### R1D99 - 
+### R1D99 - 18th Feb
+1. Started with Gssoc
+2. Solved aptitude questions.
