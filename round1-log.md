@@ -452,3 +452,8 @@ R1D56 to D60 - 6th Jan to 10th Jan
 ### R1D99 - 18th Feb
 1. Started with Gssoc
 2. Solved aptitude questions.
+
+### R1D100 - 19th Feb
+1. Solved few questions from Codechef
+2. Filled out internship form.
+3. Mock test
