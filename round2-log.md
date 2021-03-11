@@ -6,5 +6,13 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 
 ## Log: A journal of what I'm doing
 
-### R2D01 - 10th March
+### R2D00 - 10th March
 1. Applied for Spark internship
+
+### R2D01 - 11th March
+1. linked list ques from GFG
+2. Django basics
+3. Went on with Python on Udemy
+
+### R2D02 - 12th March
+1.
