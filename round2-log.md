@@ -15,4 +15,4 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 3. Went on with Python on Udemy
 
 ### R2D02 - 12th March
-1.
+1. Lowkey day - Apllied to InfityQ only
