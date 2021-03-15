@@ -16,3 +16,5 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 
 ### R2D02 - 12th March
 1. Lowkey day - Apllied to InfityQ only
+
+R2D03 - 13th March
