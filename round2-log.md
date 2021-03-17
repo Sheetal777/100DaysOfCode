@@ -17,4 +17,18 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 ### R2D02 - 12th March
 1. Lowkey day - Apllied to InfityQ only
 
-R2D03 - 13th March
+### R2D03 - 13th March
+1. I contributed to Gssoc repo ML projects
+2. started with DBMS basics
+
+### R2D04 - 14th March
+1. Relational Databases
+2. Gssoc repo contribution
+
+### R2D05 - 15th March
+1. Completed DBMS basics
+2. made few changes to previous contributions
+
+### R2D06 - 17th March
+1. DBMS Gate Smashers Lec-1
+2. Still finding projects from GSSoc to contribute to. 
