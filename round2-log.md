@@ -32,3 +32,5 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 ### R2D06 - 17th March
 1. DBMS Gate Smashers Lec-1
 2. Still finding projects from GSSoc to contribute to. 
+
+-------- going slow because of sem exams. Will BRB --------
