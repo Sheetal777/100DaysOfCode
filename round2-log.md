@@ -37,6 +37,8 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 Over
 
 ### R2D07 - 27th March
-1. 4 DBMS lectures by gate crackers.
-2. Practiced python programming
-3. 
+1. 5 DBMS lectures by gate crackers.
+2. Practiced python programming.
+3. Back at apti practice for InfyTQ.
+
+### R2D08 - 28th March
