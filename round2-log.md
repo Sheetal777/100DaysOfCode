@@ -35,3 +35,8 @@ The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 
 -------- going slow because of sem exams. Will BRB --------
 Over
+
+### R2D07 - 27th March
+1. 4 DBMS lectures by gate crackers.
+2. Practiced python programming
+3. 
