@@ -41,4 +41,4 @@ Over
 2. Practiced python programming.
 3. Back at apti practice for InfyTQ.
 
-### R2D08 - 28th March
+### R2D08 - 01 June
