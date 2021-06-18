@@ -41,4 +41,16 @@ Over
 2. Practiced python programming.
 3. Back at apti practice for InfyTQ.
 
-### R2D08 - 01 June
+## MY ROUND-2 BECAME A COMPLETE JOKE ON MYSELF BUT I'LL KEEP AT IT.
+Though I am practising daily (From June-1 without break) but do not update it at all. Happy Imposter Syndrome to me!
+Well, lets see how it goes.
+
+Updates: I had cleared the two technical rounds of Apisero but they have not sent me the promised interview link yet.
+
+### R2D08 - 18th June
+1. I have Cognizant Digital Base1 Exam tomorrow and my preparations are sad.
+2. Still revising RDBMS, Web module and C#, Java on hold
+3. I will keep doing small projects to improve so taht I can make my major project effciently.
+
+### R2D09 - 19th June
+1. *Hopes*
